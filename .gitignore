@@ -1,0 +1,8 @@
+# Obsidian volatile files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/plugins/*/data.json
+
+# OS files
+.DS_Store
