@@ -6,4 +6,3 @@ One-line summary of every wiki article. Claude reads this first when answering q
 
 | Article | Summary | Sources |
 |---------|---------|---------|
-| _No articles yet_ | _Add sources to `raw/` and run "compile the wiki"_ | — |

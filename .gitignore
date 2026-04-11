@@ -1,8 +1,23 @@
-# Obsidian volatile files
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/cache/
-.obsidian/plugins/*/data.json
+# Personal content — not part of the blueprint
+raw/**
+!raw/.gitkeep
+!raw/articles/.gitkeep
+!raw/papers/.gitkeep
+!raw/notes/.gitkeep
+!raw/images/.gitkeep
+wiki/*.md
+!wiki/_index.md
+!wiki/_summary.md
+!wiki/_backlinks.md
+outputs/**
+!outputs/.gitkeep
+
+# Obsidian
+.obsidian/
 
 # OS files
 .DS_Store
+
+# Scratch files
+*.base
+2026-*.md
